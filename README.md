@@ -145,7 +145,7 @@ people-analytics-dashboard/
 - screenshots/
     - dashboard.png
 - README.md
-
+```
 ## What I learned
 
 While building this project, I practiced how to move from raw data to a more useful business view.
